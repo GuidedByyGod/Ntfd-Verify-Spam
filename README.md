@@ -20,7 +20,7 @@ O Ntfd Verify Spam junta dois sistemas em um único bot:
 | Interface | Components V2 |
 | Captcha | Imagem (`@napi-rs/canvas`) ou matemático |
 | Armazenamento | JSON local (`data/db.json`) |
-| Licença | MIT |
+| Licença | Proprietária — todos os direitos reservados |
 
 ---
 
@@ -244,7 +244,9 @@ pm2 startup
 
 ## Licença
 
-MIT. Veja [`LICENSE`](LICENSE).
+Proprietária — **todos os direitos reservados**. O código, a documentação e os assets não podem ser usados, copiados, modificados ou redistribuídos sem autorização por escrito. Veja [`LICENSE`](LICENSE).
+
+As dependências de terceiros mantêm suas próprias licenças.
 
 ---
 
