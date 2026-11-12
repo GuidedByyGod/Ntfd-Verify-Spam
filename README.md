@@ -11,6 +11,22 @@ O Ntfd Verify Spam junta dois sistemas em um único bot:
 
 ---
 
+## Preview
+
+| Verificação | Captcha |
+|---|---|
+| ![Painel de verificação](docs/screenshots/verificacao.png) | ![Captcha em imagem](docs/screenshots/captcha.png) |
+
+| Modal de resposta | Canal anti-spam |
+|---|---|
+| ![Modal de resposta do captcha](docs/screenshots/captcha-modal.png) | ![Canal anti-spam](docs/screenshots/antispam-canal.png) |
+
+| Log de castigo | Comandos |
+|---|---|
+| ![Log de usuário castigado](docs/screenshots/antispam-log.png) | ![Comandos /verify e /antispam](docs/screenshots/comandos.png) |
+
+---
+
 ## Status
 
 | Item | Valor |
@@ -178,6 +194,7 @@ discord-bot/
 ├─ data/                         Banco JSON local (não versionar)
 ├─ .env.example
 ├─ package.json
+├─ docs/screenshots/             Capturas de tela deste README
 └─ README.md
 ```
 
